@@ -10,3 +10,5 @@ code/resources/__pycache__/__init__.cpython-39.pyc
 code/resources/__pycache__/item.cpython-39.pyc
 code/resources/__pycache__/store.cpython-39.pyc
 code/resources/__pycache__/user.cpython-39.pyc
+__pycache__/
+*.pyc
